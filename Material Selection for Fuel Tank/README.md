@@ -16,3 +16,6 @@ Below is a table comparing some of these factors for different material consider
 | [Nylon PA 12](https://www.protolabs.com/media/1021634/sls-data-sheet-pa-12-white-f.pdf) | ~$1,800 | 1.02 g/cm3 | 350 °F | 327 MPa | Heat shield would be required; Fuel tank would consist of 2 separate printed pieces |
 | [Ultem 1010 Resin](https://www.stratasys.com/siteassets/materials/materials-catalog/fdm-materials/ultem1010/mds_fdm_ultem-1010-resin_0921a.pdf?v=48e257) | ~$2,500 | 1.29 g/cm3 | 417 °F | 245 MPa | Fuel tank would consist of 2 separate printed pieces |
 
+I initially decided that a Nylon PA 12 3D printed fuel tank would be the best choice because although it would require a heat shield, it would be less expensive than other plastic alternatives and we would have experience with the material since it was used the previous year. So I got to work designing a 3D printed fuel tank in CAD.
+
+Later in the semester though, some of my lead members recommended that I revisit the idea of doing an aluminum sheet metal fuel tank, and that it would not be as difficult to manufacture as originally thought. I determined that the aluminum fuel tank would weight ~1.44 lbs while the nylon fuel tank would weigh ~1.53 lbs not including the heat shield and heat shield mounting.
