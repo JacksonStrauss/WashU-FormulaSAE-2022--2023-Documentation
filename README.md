@@ -12,5 +12,5 @@ As of writing this, the season is not over so we'll see how things turn out!
 * Material Selection for Fuel Tank
 * Plastic Tank with Custom O-Ring
 * Welded Aluminium Sheet Metal Tank
-* Force Analyses and Validation of Tank
+* Force Analyses of Tank
 * Research on 3D Texturing
