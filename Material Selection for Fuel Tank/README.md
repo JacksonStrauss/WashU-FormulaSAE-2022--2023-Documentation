@@ -6,4 +6,12 @@ This fuel tank concept was good in theory but had some issues that needed to be 
 
 (image of trapped air)
 
-There are several other important factors to take into account when selecting the material of the fuel tank. Keeping the price of manufacturing the fuel tank is important because the team runs a tight budget and sometimes you have to prioritize cost efficiency over other capabilities of the design. The density of the material for the fuel tank 
+There are several other important factors to take into account when selecting the material of the fuel tank. Keeping the price of manufacturing the fuel tank is important because the team runs a tight budget and sometimes you have to prioritize cost efficiency over other capabilities of the design. The density of the material for the fuel tank is an important factor because on a race car you want to keep components as light as possible. (The principle where F = ma which means that a = F/m so if you keep force constant and decrease mass then you have a higher acceleration which means that the race car can travel faster.)
+
+Below is a table comparing some of these factors for different material considerations for the fuel tank:
+
+| Material | Price | Density | HDT at 66 psi | Compression Yield Strength | Design Constraints |
+| --- | --- | --- | --- | --- | --- |
+| Aluminum Sheet Metal | Relatively cheap | 2.7 g/cm3 | HDT not an issue for aluminum | ~450 MPa | Fuel tank would be one part; holley hydramat permanently sits inside the tank; It's difficult to create openings in the tank for fuel lines, filler neck, etc; Fuel tank can't necessarily be designed with optimal geometry (weight-savings) because difficult to weld/fold |
+| Nylon PA 12 | ~$1,800 | 1.02 g/cm3 | 350 °F | 327 MPa | Heat shield would be required; Fuel tank would consist of 2 separate printed pieces |
+| Ultem 1010 Resin | ~$2,500 | 1.29 g/cm3 | 417 °F | 245 MPa | Fuel tank would consist of 2 separate printed pieces |
