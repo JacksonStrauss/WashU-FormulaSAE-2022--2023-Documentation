@@ -10,7 +10,7 @@ Dassault Systèmes actually has [generative design software (4)](https://www.eng
 
 One other thing to keep in mind is that we were going to use the bead optimization for 3D printed components. 3D printed components can have different material properties depending on the orientation and settings used to print the part. I'm not sure whether this would impact the effect of the optimized bead pattern on the fuel tank.
 
-Ultimately we chose to create the welded aluminum sheet metal design for the fuel tank which does not utilize 3D bead pattern texturing. I tried to create some bead patterns manually for the plastic fuel tank but the difference seemed negligible in Finite Element Analysys when compared to the fuel tank without the bead patterns. It would be interesting to see in the future if the generative design software which calculates the optimal bead pattern has a noticeable effect on the structural properties of the fuel tank.
+Ultimately we chose to create the welded aluminum sheet metal design for the fuel tank which does not utilize 3D bead pattern texturing. I tried to create some bead patterns manually for the plastic fuel tank in CAD software but the difference seemed negligible in Finite Element Analysis when compared to the fuel tank without the bead patterns. It would be interesting to see in the future if the generative design software which calculates the optimal bead pattern has a noticeable effect on the structural properties of the fuel tank.
 
 ### References
 1) https://en.wikipedia.org/wiki/Topology_optimization
