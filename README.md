@@ -9,8 +9,8 @@ Since this was my first year being on the WashU Racing team, there was **_a lot_
 As of writing this, the season is not over so we'll see how things turn out!
 
 ## List of Topics in Repository:
+* [Force Analyses of Tank](https://github.com/JacksonStrauss/WashU-FormulaSAE-2022--2023-Documentation/tree/main/Force%20Analyses%20of%20Tank)
 * [Material Selection for Fuel Tank](https://github.com/JacksonStrauss/WashU-FormulaSAE-2022--2023-Documentation/tree/main/Material%20Selection%20for%20Fuel%20Tank)
 * [Plastic Tank with Custom O-Ring](https://github.com/JacksonStrauss/WashU-FormulaSAE-2022--2023-Documentation/tree/main/Plastic%20Tank%20with%20Custom%20O-Ring)
-* [Welded Aluminium Sheet Metal Tank](https://github.com/JacksonStrauss/WashU-FormulaSAE-2022--2023-Documentation/tree/main/Welded%20Aluminum%20Sheet%20Metal%20Tank)
-* [Force Analyses of Tank](https://github.com/JacksonStrauss/WashU-FormulaSAE-2022--2023-Documentation/tree/main/Force%20Analyses%20of%20Tank)
 * [Research on 3D Texturing](https://github.com/JacksonStrauss/WashU-FormulaSAE-2022--2023-Documentation/tree/main/Research%20on%203D%20Texturing)
+* [Welded Aluminium Sheet Metal Tank](https://github.com/JacksonStrauss/WashU-FormulaSAE-2022--2023-Documentation/tree/main/Welded%20Aluminum%20Sheet%20Metal%20Tank)
