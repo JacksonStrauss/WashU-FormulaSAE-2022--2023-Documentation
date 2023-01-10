@@ -18,7 +18,7 @@ To start off though, I first needed to determine what type of aluminum alloy to 
 | [3003 Aluminum](https://www.thomasnet.com/articles/metals-metal-products/3003-aluminum/) | 186 MPa | 68.9 GPa | 115 MPa | Decent | Good | Commonly used in fuel tanks |
 | [5052 Aluminum](https://www.thomasnet.com/articles/metals-metal-products/6061-aluminum-vs-5052-aluminum/) | 193 MPa | 70.3 GPa | 115 MPa | Very Good | Good | Commonly used in fuel tanks |
 | [6061 Aluminum](https://www.thomasnet.com/articles/metals-metal-products/6061-aluminum-vs-5052-aluminum/) | 276 MPa | 68.9 GPa | 96.5 MPa | Very Good | Good | Cracks when bending |
-| 7075 Aluminum | | | | | | Doesn't bend well |
+| 7075 Aluminum | | | | | | [Doesn't bend well](http://haomei-aluminium.com/en/News/Knowledge/7075-aluminum-sheet-bending.html) |
 
 A really important requirement is that the sheet metal has to be able to be bent into shape. If a certain alloy cracks when it is bent then it is unusable for the aluminum fuel tank. I ultimately decided to use 5052 Aluminum for the fuel tank at a thickness of 0.030"
 
@@ -33,3 +33,4 @@ With all of that in mind, below are a few screenshots of the fuel tank design in
 [5052 aluminum spec sheet](https://www.thomasnet.com/articles/metals-metal-products/6061-aluminum-vs-5052-aluminum/)
 [3003 aluminum spec sheet](https://www.thomasnet.com/articles/metals-metal-products/3003-aluminum/)
 [6061 aluminum spec sheet](https://www.thomasnet.com/articles/metals-metal-products/6061-aluminum-vs-5052-aluminum/)
+[7075 not bending well](http://haomei-aluminium.com/en/News/Knowledge/7075-aluminum-sheet-bending.html)
