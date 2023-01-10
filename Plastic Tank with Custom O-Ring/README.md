@@ -31,7 +31,7 @@ Because O-Rings only really come in certain sizes/lengths and the O-Ring for the
 
 I then tried to emulate an FEA simulation outlined in [this article](https://tarkka.co/2019/04/11/overview-of-hyperelastic-fea-of-o-ring/) to determine if there was enough compression force at the fastener points to ensure that all points of the O-Ring along the groove were being compressed. Below is a screenshot of the results for my run of the FEA simulation (the maximum displacement is about 0.005 mm which is negligible in this scenario.)
 
-
+IMAGE OF FEA COMPRESSION
 
 ### References
 1. https://www.racecar-engineering.com/articles/f1/technology-explained-f1-fuel-systems/
