@@ -13,7 +13,7 @@ One other thing to keep in mind is that we were going to use the bead optimizati
 Ultimately we chose to create the welded aluminum sheet metal design for the fuel tank which does not utilize 3D bead pattern texturing. I tried to create some bead patterns manually for the plastic fuel tank in CAD software as seen below but the difference seemed negligible in Finite Element Analysis when compared to the fuel tank without the bead patterns. 
 
 <p align="left">
-  <img src="./Media/FEACompression.png" alt="ManualTexture" width="500">
+  <img src="./Media/ManualTexture.png" alt="Manual 3D Texturing of Fuel Tank" width="500">
 </p>
 
 It would be interesting to see in the future if the generative design software which calculates the optimal bead pattern has a noticeable effect on the structural properties of the fuel tank.
