@@ -22,7 +22,19 @@ To start off though, I first needed to determine what type of aluminum alloy to 
 
 A really important requirement is that the sheet metal has to be able to be bent into shape. If a certain alloy cracks when it is bent then it is unusable for the aluminum fuel tank. I ultimately decided to use 5052 Aluminum for the fuel tank at a thickness of 0.030"
 
-With all of that in mind, below are a few screenshots of the fuel tank design in SolidWorks. The tank has a flat 3" by 15" base for the [Holley Hydramat (2)](https://www.holley.com/products/fuel_systems/hydramat/). (The Holley Hydramat basically acts as a sponge that absorbs fuel in the tank and thus ensures a constant pump/flow rate of fuel even while some of the fuel might be sloshing in the tank.)
+#
+
+Below are a few screenshots of the fuel tank design in SolidWorks. The tank has a flat 3" by 15" base for the [Holley Hydramat (2)](https://www.holley.com/products/fuel_systems/hydramat/). (The Holley Hydramat basically acts as a sponge that absorbs fuel in the tank and thus ensures a constant pump/flow rate of fuel even while some of the fuel might be sloshing in the tank.) 
+
+INSERT SCREENSHOTS
+
+Because the fuel tank is made out of sheet metal, the CAD design also had to be made using SolidWorks' special sheet metal option. This SolidWorks feature allows the user to create a bent sheet metal part that folds up from one flat sheet metal piece. This is really handy because now we can waterjet cut a large piece of aluminum sheet metal and then bend it using a metal brake. Below is a drawing of the fuel tank unfolded and a screenshot of the fuel tank partially unfolded.
+
+INSERT SCREENSHOTS
+
+Another cool feature that this fuel tank implements is that all of the faces on the top side slope upwards toward a singular horizontal face. At the horizontal face is where the fuel filler neck tube is and thus where the air and pressure from the fuel vapors escapes. The top faces have to be sloped in this manner because the gas needs to always be traveling upwards towards the filler neck so that it does not get trapped inside the tank. Getting this design down probably took longer than it should have. It works by having each of the faces normal to the top horizontal face having the same angle of depression (2°) and then creating diagonal faces in between that line up with the faces at 2°.
+
+INSERT SCREENSHOTS
 
 #
 
