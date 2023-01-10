@@ -21,6 +21,8 @@ With all of that in mind, below are a few screenshots of the fuel tank design in
 | Weight of Fuel Tank | ~1.53 lbs |
 | --- | --- |
 
+# 
+
 One of the main features of this fuel tank was that it incorporated the use of a custom O-Ring to ensure that no fuel could leak out. For the O-Ring, I decided to use the material [Viton (3)](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications) which has good resistance to corrosion as well as high temperatures. I determined that a good cross-section for the O-Ring was 7/64" and used this [specification sheet (4)](https://www.marcorubber.com/o-ring-groove-design-face-seal.htm) to determine certain values like the gland width and gland depth necessary for the O-Ring.
 
 <p align="left">
