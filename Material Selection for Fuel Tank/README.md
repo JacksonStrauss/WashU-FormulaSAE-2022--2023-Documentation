@@ -4,7 +4,7 @@ For the WUFR-22 car (the previous season), the team had decided to create a 3D p
 
 This fuel tank concept was good in theory but had some issues that needed to be solved for the 2022-2023 season. For example, the Nylon PA 12 did not have a high enough [HDT (Heat deflection temperature)](https://en.wikipedia.org/wiki/Heat_deflection_temperature) and so parts of the fuel tank deformed due to the heat that was radiating from the exhaust tubes. The fuel tank did not incorporate an O-ring/gasket and so fuel could easily escape the system. Lastly, because the baffles were connected from the top half of the fuel tank, air was trapped at the top of the fuel tank and reduced the amount of fuel the tank could hold. As such, the car ran out of fuel just as it was about to reach the finish line. (See image of trapped air in baffles below)
 
-(image of trapped air)
+INSERT IMAGE HERE
 
 There are several other important factors to take into account when selecting the material of the fuel tank. Keeping the price of manufacturing the fuel tank is important because the team runs a tight budget and sometimes you have to prioritize cost efficiency over other capabilities of the design. The density of the material for the fuel tank is an important factor because on a race car you want to keep components as light as possible. (The principle where F = ma which means that a = F/m so if you keep force constant and decrease mass then you have a higher acceleration which means that the race car can travel faster.) You also need to have a material that is highly corrosive resistant so that it won't corrode when it comes into contact with the fuel.
 
