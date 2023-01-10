@@ -26,6 +26,10 @@ One of the main components of this fuel tank was that it incorporated the use of
   <img src="./Media/O-Ring.png" alt="O-Ring diagram" width="500">
 </p>
 
+| O-Ring Cross Section | Gland Width | Gland Depth | R1 | R2 |
+| --- | --- | --- | --- | --- |
+| .103" | .124" | .081" | .010" | 0.005" |
+
 I then determined by what percentage I needed to squeeze the O-Ring by using [this tutorital](https://www.ehow.com/how_7602556_calculate-oring-squeeze.html) and found that value to be 27% squeeze. Then, using [this chart](https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/O-Ring-ehandbook-pdfs/compression-load-force-by-cross-section-70-and-90-duro.pdf), I determined that an O-Ring with .103" cross section and ~70 durometer needs around 30lbs/in of applied force in order to create a tight seal.
 
 <p align="left">
