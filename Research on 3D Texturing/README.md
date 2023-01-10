@@ -18,6 +18,8 @@ Ultimately we chose to create the welded aluminum sheet metal design for the fue
 
 It would be interesting to see in the future if the generative design software which calculates the optimal bead pattern has a noticeable effect on the structural properties of the fuel tank.
 
+#
+
 ### References
 1) https://en.wikipedia.org/wiki/Topology_optimization
 2) https://www.youtube.com/watch?v=3-ygdNQThAs
