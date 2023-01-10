@@ -21,17 +21,23 @@ Properties of fuel tank:
 
 One of the main components of this fuel tank was that it incorporated the use of a custom O-Ring to ensure that no fuel could leak out. For the O-Ring, I decided to use the material [Viton](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications) which has good resistance to corrosion as well as high temperatures. I determined that a good cross-section for the O-Ring was 7/64" and used this [specification sheet](https://www.marcorubber.com/o-ring-groove-design-face-seal.htm) to determine certain values like the gland width and gland depth necessary for the O-Ring.
 
-IMAGE OF O-RING DIAGRAM
+<p align="left">
+  <img src="./Media/O-Ring.png" alt="O-Ring diagram" width="500">
+</p>
 
 I then determined by what percentage I needed to squeeze the O-Ring by using [this tutorital](https://www.ehow.com/how_7602556_calculate-oring-squeeze.html) and found that value to be 27% squeeze. Then, using [this chart](https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/O-Ring-ehandbook-pdfs/compression-load-force-by-cross-section-70-and-90-duro.pdf), I determined that an O-Ring with .103" cross section and ~70 durometer needs around 30lbs/in of applied force in order to create a tight seal.
 
-IMAGE OF PARKER CHART
+<p align="left">
+  <img src="./Media/ParkerChart.png" alt="Compressive Load Force Chart" width="500">
+</p>
 
 Because O-Rings only really come in certain sizes/lengths and the O-Ring for the fuel tank would have to be more rectangular than circle-shaped, I decided that we would instead use a custom O-Ring. We would purchase the custom O-Ring cord then cut it to length and glue the two ends together. [This video/tutorial](https://bit-tech.net/guides/modding/watercooling/how-to-make-custom-length-o-rings-for-distro-plates/1/) does a pretty good job of explaining how this process works.
 
 I then tried to emulate an FEA simulation outlined in [this article](https://tarkka.co/2019/04/11/overview-of-hyperelastic-fea-of-o-ring/) to determine if there was enough compression force at the fastener points to ensure that all points of the O-Ring along the groove were being compressed. Below is a screenshot of the results for my run of the FEA simulation (the maximum displacement is about 0.005 mm which is negligible in this scenario.)
 
-IMAGE OF FEA COMPRESSION
+<p align="left">
+  <img src="./Media/FEACompression.png" alt="FEA Compression Results" width="500">
+</p>
 
 ### References
 1. https://www.racecar-engineering.com/articles/f1/technology-explained-f1-fuel-systems/
