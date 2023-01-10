@@ -10,8 +10,9 @@ For the 3D printed plastic fuel tank, there were a few design requirements that 
 
 With all of that in mind, below are a few screenshots of the fuel tank design in SolidWorks. The overall shape is pretty simple, with a flat 3" by 15" base for the Holley Hydramat. 
 
-
-
+<p align="left">
+  <img src="./Media/3DPrintedFuelTank.png" alt="3D Printed Fuel Tank Shape" width="500">
+</p>
 
 The Holley Hydramat basically acts as a sponge that absorbs fuel in the tank and thus ensures a constant pump/flow rate of fuel even while some of the fuel might be sloshing in the tank. 
 
