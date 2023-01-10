@@ -8,7 +8,7 @@ For the 3D printed plastic fuel tank, there were a few design requirements that 
 * It's best to keep the fuel tank as far away as possible from the exhaust because using colder fuel runs the engine more efficiently. [(1)](https://www.racecar-engineering.com/articles/f1/technology-explained-f1-fuel-systems/)
 * The fuel tank must have room for the Holley Hydramat at the bottom. 
 
-With all of that in mind, below are a few screenshots of the fuel tank design in SolidWorks. The overall shape is pretty simple, with a flat 3" by 15" base for the [Holley Hydramat](https://www.holley.com/products/fuel_systems/hydramat/). 
+With all of that in mind, below are a few screenshots of the fuel tank design in SolidWorks. The overall shape is pretty simple, with a flat 3" by 15" base for the [Holley Hydramat](https://www.holley.com/products/fuel_systems/hydramat/). (The Holley Hydramat basically acts as a sponge that absorbs fuel in the tank and thus ensures a constant pump/flow rate of fuel even while some of the fuel might be sloshing in the tank.)
 
 <p align="left">
   <img src="./Media/PrintedIsometric.png" alt="3D Printed Fuel Tank" width="500">
@@ -18,11 +18,10 @@ With all of that in mind, below are a few screenshots of the fuel tank design in
   <img src="./Media/PrintedInFrame.png" alt="3D Printed Fuel Tank in Car Frame" width="500">
 </p>
 
-The Holley Hydramat basically acts as a sponge that absorbs fuel in the tank and thus ensures a constant pump/flow rate of fuel even while some of the fuel might be sloshing in the tank. 
+| Weight of Fuel Tank | ~1.53 lbs |
+| --- | --- |
 
-Properties of fuel tank:
-
-One of the main components of this fuel tank was that it incorporated the use of a custom O-Ring to ensure that no fuel could leak out. For the O-Ring, I decided to use the material [Viton](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications) which has good resistance to corrosion as well as high temperatures. I determined that a good cross-section for the O-Ring was 7/64" and used this [specification sheet](https://www.marcorubber.com/o-ring-groove-design-face-seal.htm) to determine certain values like the gland width and gland depth necessary for the O-Ring.
+One of the main features of this fuel tank was that it incorporated the use of a custom O-Ring to ensure that no fuel could leak out. For the O-Ring, I decided to use the material [Viton](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications) which has good resistance to corrosion as well as high temperatures. I determined that a good cross-section for the O-Ring was 7/64" and used this [specification sheet](https://www.marcorubber.com/o-ring-groove-design-face-seal.htm) to determine certain values like the gland width and gland depth necessary for the O-Ring.
 
 <p align="left">
   <img src="./Media/O-Ring.png" alt="O-Ring diagram" width="500">
