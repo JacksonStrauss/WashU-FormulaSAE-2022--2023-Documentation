@@ -8,7 +8,7 @@ For the 3D printed plastic fuel tank, there were a few design requirements that 
 * It's best to keep the fuel tank as far away as possible from the exhaust because using colder fuel runs the engine more efficiently. [(1)](https://www.racecar-engineering.com/articles/f1/technology-explained-f1-fuel-systems/)
 * The fuel tank must have room for the Holley Hydramat at the bottom. 
 
-With all of that in mind, below are a few screenshots of the fuel tank design in SolidWorks. The overall shape is pretty simple, with a flat 3" by 15" base for the Holley Hydramat. 
+With all of that in mind, below are a few screenshots of the fuel tank design in SolidWorks. The overall shape is pretty simple, with a flat 3" by 15" base for the [Holley Hydramat](https://www.holley.com/products/fuel_systems/hydramat/). 
 
 <p align="left">
   <img src="./Media/PrintedIsometric.png" alt="3D Printed Fuel Tank" width="500">
@@ -48,9 +48,10 @@ I then tried to emulate an FEA simulation outlined in [this article](https://tar
 
 ### References
 1. https://www.racecar-engineering.com/articles/f1/technology-explained-f1-fuel-systems/
-2. [O-Ring Material Selections](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications)
-3. https://www.marcorubber.com/o-ring-groove-design-face-seal.htm
-4. https://www.ehow.com/how_7602556_calculate-oring-squeeze.html
-5. [Parker Hannifin O-Ring Compressive Load Charts](https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/O-Ring-ehandbook-pdfs/compression-load-force-by-cross-section-70-and-90-duro.pdf)
-6. https://bit-tech.net/guides/modding/watercooling/how-to-make-custom-length-o-rings-for-distro-plates/1/
-7. https://tarkka.co/2019/04/11/overview-of-hyperelastic-fea-of-o-ring/
+2. https://www.holley.com/products/fuel_systems/hydramat/
+3. [O-Ring Material Selections](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications)
+4. https://www.marcorubber.com/o-ring-groove-design-face-seal.htm
+5. https://www.ehow.com/how_7602556_calculate-oring-squeeze.html
+6. [Parker Hannifin O-Ring Compressive Load Charts](https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/O-Ring-ehandbook-pdfs/compression-load-force-by-cross-section-70-and-90-duro.pdf)
+7. https://bit-tech.net/guides/modding/watercooling/how-to-make-custom-length-o-rings-for-distro-plates/1/
+8. https://tarkka.co/2019/04/11/overview-of-hyperelastic-fea-of-o-ring/
