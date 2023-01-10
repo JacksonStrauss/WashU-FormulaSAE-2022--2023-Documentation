@@ -19,9 +19,15 @@ Sadly, I do not have the files for the final results of 3D printed fuel tank, I 
 
 Properties of fuel tank:
 
-One of the main components of this fuel tank was that it incorporated the use of a custom O-Ring to ensure that no fuel could leak out. For the O-Ring, I decided to use the material [Viton](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications) which has good resistance to corrosion as well as high temperatures.
+One of the main components of this fuel tank was that it incorporated the use of a custom O-Ring to ensure that no fuel could leak out. For the O-Ring, I decided to use the material [Viton](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications) which has good resistance to corrosion as well as high temperatures. I determined that a good cross-section for the O-Ring was 7/64" and used this [specification sheet](https://www.marcorubber.com/o-ring-groove-design-face-seal.htm) to determine certain values like the gland width and gland depth necessary for the O-Ring.
 
+IMAGE OF O-RING DIAGRAM
+
+I then determined by what percentage I needed to squeeze the O-Ring by using [this tutorital](https://www.ehow.com/how_7602556_calculate-oring-squeeze.html) and found that value to be 27% squeeze. Then, using [this chart](https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/O-Ring-ehandbook-pdfs/compression-load-force-by-cross-section-70-and-90-duro.pdf), I determined that an O-Ring with .103" cross section and ~70 durometer needs around 30lbs/in of applied force in order to create a tight seal.
 
 ### References
 1. https://www.racecar-engineering.com/articles/f1/technology-explained-f1-fuel-systems/
 2. [O-Ring Material Selections](https://www.aceseal.com/o-ring-materials#:~:text=discuss%20customization%20options.-,Buna%2DNitrile,tanks%2C%20automotive%20and%20aerospace%20applications)
+3. https://www.marcorubber.com/o-ring-groove-design-face-seal.htm
+4. https://www.ehow.com/how_7602556_calculate-oring-squeeze.html
+5. [Parker Hannifin O-Ring Compressive Load Charts](https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/O-Ring-ehandbook-pdfs/compression-load-force-by-cross-section-70-and-90-duro.pdf)
