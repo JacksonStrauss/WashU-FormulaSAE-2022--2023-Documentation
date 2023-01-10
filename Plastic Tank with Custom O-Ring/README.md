@@ -47,6 +47,8 @@ I then tried to replicate an FEA simulation outlined in [this article (9)](https
   <img src="./Media/FEACompression.png" alt="FEA Compression Results" width="500">
 </p>
 
+#
+
 ### References
 1. https://www.racecar-engineering.com/articles/f1/technology-explained-f1-fuel-systems/
 2. https://www.holley.com/products/fuel_systems/hydramat/
